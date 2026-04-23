@@ -1,0 +1,40 @@
+# أدوات ومواقع الذكاء الاصطناعي المفيدة لبكالوريا 2027
+# تم إنشاؤه تلقائياً - قم بإضافة الأدوات والاستخدامات
+
+# ========================================
+# أدوات الذكاء الاصطناعي
+# ========================================
+اسم الأداة | رابط الموقع | استخداماتها | رابط الشعار (اختياري)
+---
+
+# أدوات الدردشة والحوار
+Claude | https://claude.ai | شرح الدروس، توليد أسئلة، تصحيح الحلول، مساعد شخصي للدراسة | https://claude.ai/favicon.ico
+ChatGPT | https://chat.openai.com | شرح الدروس، حل التمارين، تلخيص النصوص، ترجمة النصوص | https://chat.openai.com/favicon.ico
+Gemini | https://gemini.google.com | البحث عن المعلومات، شرح الدروس، توليد تمارين | https://gemini.google.com/favicon.ico
+Copilot | https://copilot.microsoft.com | مساعد في البحث والكتابة، تلخيص الدروس | https://copilot.microsoft.com/favicon.ico
+
+# أدوات تحويل والملفات
+Pdf.ai | https://pdf.ai | تحليل واستخراج المعلومات من ملفات PDF | -
+Smallpdf | https://smallpdf.com | تحويل وتحرير ملفات PDF بسهولة | https://smallpdf.com/favicon.ico
+iLovePDF | https://www.ilovepdf.com | دمج، تقسيم، وتحويل ملفات PDF | https://www.ilovepdf.com/favicon.ico
+
+# أدوات التعليم والمراجع
+Quizlet | https://quizlet.com | إنشاء بطاقات تعليمية للمراجعة السريعة | https://quizlet.com/favicon.ico
+Khan Academy | https://www.khanacademy.org | دروس فيديو مجانية في الرياضيات والعلوم | https://www.khanacademy.org/favicon.ico
+Wolfram Alpha | https://www.wolframalpha.com | حسابات رياضية متقدمة وحل المعادلات | https://www.wolframalpha.com/favicon.ico
+
+# أدوات الكتابة والقواعد
+Grammarly | https://www.grammarly.com | تصحيح الأخطاء اللغوية في الإنجليزية | https://www.grammarly.com/favicon.ico
+DeepL | https://www.deepl.com | ترجمة دقيقة للنصوص (فرنسي، إنجليزي، عربي) | https://www.deepl.com/favicon.ico
+
+# أدوات توليد الصور والمخططات
+Canva | https://www.canva.com | إنشاء مخططات وخرائط ذهنية للدروس | https://www.canva.com/favicon.ico
+Draw.io | https://app.diagrams.net | رسم المخططات والخرائط الإدراكية | https://app.diagrams.net/favicon.ico
+
+# ========================================
+# ملاحظات:
+# - يمكن إضافة المزيد من الأدوات حسب الحاجة
+# - رابط الشعار اختياري، يُستخدم لعرض صورة الأداة في README.md
+# - يمكن الحصول على رابط الشعار من: https://logo.clearbit.com/domain.com
+# - الهدف: 5 أدوات فأكثر (تم تحقيق الهدف ✅)
+# ========================================
