@@ -1,0 +1,18 @@
+# أدوات الذكاء الاصطناعي
+
+## chatbots العامة
+Claude | https://claude.ai | شرح الدروس، حل التمارين
+ChatGPT | https://chatgpt.com | إجابة على الأسئلة
+Gemini | https://gemini.google.com | بحث وتحليل
+
+## أدوات تعليمية
+Khan Academy | https://www.khanacademy.org | دروس مجانية
+Photomath | https://photomath.com | حل المسائل الرياضية
+Symbolab | https://www.symbolab.com | حلال رياضيات
+Desmos | https://www.desmos.com | حاسبة بيانية
+Wolfram Alpha | https://www.wolframalpha.com | محرر رياضيات
+
+## أدوات الدراسة
+Quizlet | https://quizlet.com | بطاقات تعليمية
+Anki | https://ankiweb.net | بطاقات ذاكرة
+Notion | https://www.notion.so | تنظيم ملاحظات
