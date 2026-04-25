@@ -11,19 +11,57 @@
 
 ---
 
-## 📚 المواد الدراسية
+## 📺 قنوات يوتيوب تعليمية
 
-| المادة | الوصف |
+### ➕ الرياضيات
+| القناة | الرابط |
 |--------|--------|
-| 📐 الرياضيات | الدوال، المعادلات، الهندسة |
-| ⚛️ الفيزياء | الميكانيك، الكهرباء، البصريات |
-| 🌿 علوم الحياة | البيولوجيا، الكيمياء |
-| 📖 العربية | النصوص، الإنشاء |
-| 🇬🇧 الإنجليزية | Grammar, Writing |
-| 🇫🇷 الفرنسية | Grammaire, Rédaction |
-| 🗺️ التاريخ | التاريخ والجغرافيا |
-| ☪️ الإسلامية | العلوم الإسلامية |
-| 🧠 الفلسفة | الفلسفة والمنطق |
+| الأستاذ عبد الباسط - س1 | [مشاهدة](https://www.youtube.com/@الأستاذعبدالباسط-س1و) |
+| noureddine2013 | [مشاهدة](https://www.youtube.com/@noureddine2013) |
+| M__Zakaria | [مشاهدة](https://www.youtube.com/@M__Zakaria) |
+
+### ⚡ الفيزياء
+| القناة | الرابط |
+|--------|--------|
+| aminezeddoun | [مشاهدة](https://www.youtube.com/@aminezeddoun) |
+| abdelatif_phyDZ | [مشاهدة](https://www.youtube.com/@abdelatif_phyDZ) |
+
+### 🔬 العلوم (علوم الطبيعة والحياة)
+| القناة | الرابط |
+|--------|--------|
+| أيوب للعلوم | [مشاهدة](https://www.youtube.com/@أيوب-للعلوم) |
+| prof-ketfi.cherif-zina | [مشاهدة](https://www.youtube.com/@prof-ketfi.cherif-zina) |
+| MRrepolife | [مشاهدة](https://www.youtube.com/@MRrepolife) |
+
+### 📖 اللغة العربية
+| القناة | الرابط |
+|--------|--------|
+| prof_haigoune | [مشاهدة](https://www.youtube.com/@prof_haigoune) |
+| أم سيلين في الأدب العربي | [مشاهدة](https://www.youtube.com/@أم-سيلين-في-الأدب-العربي) |
+
+### 🇬🇧 الإنجليزية
+| القناة | الرابط |
+|--------|--------|
+| Nasri English | [مشاهدة](https://www.youtube.com/@Nasri.English) |
+| mr.mansouri | [مشاهدة](https://www.youtube.com/@mr.mansouri-english.français/featured) |
+
+### 🇫🇷 الفرنسية
+| القناة | الرابط |
+|--------|--------|
+| sally.francais | [مشاهدة](https://www.youtube.com/@sally.francais6738) |
+| mr.mansouri | [مشاهدة](https://www.youtube.com/@mr.mansouri-english.français/featured) |
+
+### 🗺️ التاريخ والجغرافيا
+| القناة | الرابط |
+|--------|--------|
+| الأستاذ بورنان | [مشاهدة](https://www.youtube.com/@الأستاذبورنان/featured) |
+| djaafar_prof | [مشاهدة](https://www.youtube.com/@djaafar_prof) |
+
+### ☪️ العلوم الإسلامية
+| القناة | الرابط |
+|--------|--------|
+| BOUSSAADI | [مشاهدة](https://www.youtube.com/@BOUSSAADI) |
+| dr_chms | [مشاهدة](https://www.youtube.com/@dr_chms2540) |
 
 ---
 
@@ -31,11 +69,11 @@
 
 | الأداة | الرابط |
 |--------|--------|
-| Claude | https://claude.ai |
-| ChatGPT | https://chatgpt.com |
-| Gemini | https://gemini.google.com |
-| Khan Academy | https://www.khanacademy.org |
-| Photomath | https://photomath.com |
+| Claude | [زيارة](https://claude.ai) |
+| ChatGPT | [زيارة](https://chatgpt.com) |
+| Gemini | [زيارة](https://gemini.google.com) |
+| Khan Academy | [زيارة](https://www.khanacademy.org) |
+| Photomath | [زيارة](https://photomath.com) |
 
 ---
 
