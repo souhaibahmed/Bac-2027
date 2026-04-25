@@ -11,57 +11,135 @@
 
 ---
 
-## 📺 قنوات يوتيوب تعليمية
+## 📺 قنوات يوتيوب التعليمية
+
+---
 
 ### ➕ الرياضيات
-| القناة | الرابط |
-|--------|--------|
-| الأستاذ عبد الباسط - س1 | [مشاهدة](https://www.youtube.com/@الأستاذعبدالباسط-س1و) |
-| noureddine2013 | [مشاهدة](https://www.youtube.com/@noureddine2013) |
-| M__Zakaria | [مشاهدة](https://www.youtube.com/@M__Zakaria) |
+
+<a href="https://www.youtube.com/@الأستاذعبدالباسط-س1و" target="_blank">
+<img src="https://img.youtube.com/channel/UCX9Z_6m3F3e5e5e5e5e5e5e/mqdefault.jpg" width="120" alt="الأستاذ عبد الباسط">
+<br/>
+<b>الأستاذ عبد الباسط - س1</b>
+</a>
+
+<a href="https://www.youtube.com/@noureddine2013" target="_blank">
+<img src="https://img.youtube.com/channel/UCnoureddine2013/mqdefault.jpg" width="120" alt="noureddine2013">
+<br/>
+<b>noureddine2013</b>
+</a>
+
+<a href="https://www.youtube.com/@M__Zakaria" target="_blank">
+<img src="https://img.youtube.com/channel/UCM__Zakaria/mqdefault.jpg" width="120" alt="M__Zakaria">
+<br/>
+<b>M__Zakaria</b>
+</a>
+
+---
 
 ### ⚡ الفيزياء
-| القناة | الرابط |
-|--------|--------|
-| aminezeddoun | [مشاهدة](https://www.youtube.com/@aminezeddoun) |
-| abdelatif_phyDZ | [مشاهدة](https://www.youtube.com/@abdelatif_phyDZ) |
+
+<a href="https://www.youtube.com/@aminezeddoun" target="_blank">
+<img src="https://img.youtube.com/channel/UCaminezeddoun/mqdefault.jpg" width="120" alt="aminezeddoun">
+<br/>
+<b>aminezeddoun</b>
+</a>
+
+<a href="https://www.youtube.com/@abdelatif_phyDZ" target="_blank">
+<img src="https://img.youtube.com/channel/UCabdelatif_phyDZ/mqdefault.jpg" width="120" alt="abdelatif_phyDZ">
+<br/>
+<b>abdelatif_phyDZ</b>
+</a>
+
+---
 
 ### 🔬 العلوم (علوم الطبيعة والحياة)
-| القناة | الرابط |
-|--------|--------|
-| أيوب للعلوم | [مشاهدة](https://www.youtube.com/@أيوب-للعلوم) |
-| prof-ketfi.cherif-zina | [مشاهدة](https://www.youtube.com/@prof-ketfi.cherif-zina) |
-| MRrepolife | [مشاهدة](https://www.youtube.com/@MRrepolife) |
+
+<a href="https://www.youtube.com/@أيوب-للعلوم" target="_blank">
+<img src="https://img.youtube.com/channel/UCأيوبللعلوم/mqdefault.jpg" width="120" alt="أيوب للعلوم">
+<br/>
+<b>أيوب للعلوم</b>
+</a>
+
+<a href="https://www.youtube.com/@prof-ketfi.cherif-zina" target="_blank">
+<img src="https://img.youtube.com/channel/UCprof-ketfi.cherif-zina/mqdefault.jpg" width="120" alt="prof-ketfi.cherif-zina">
+<br/>
+<b>prof-ketfi.cherif-zina</b>
+</a>
+
+<a href="https://www.youtube.com/@MRrepolife" target="_blank">
+<img src="https://img.youtube.com/channel/UCMRrepolife/mqdefault.jpg" width="120" alt="MRrepolife">
+<br/>
+<b>MRrepolife</b>
+</a>
+
+---
 
 ### 📖 اللغة العربية
-| القناة | الرابط |
-|--------|--------|
-| prof_haigoune | [مشاهدة](https://www.youtube.com/@prof_haigoune) |
-| أم سيلين في الأدب العربي | [مشاهدة](https://www.youtube.com/@أم-سيلين-في-الأدب-العربي) |
+
+<a href="https://www.youtube.com/@prof_haigoune" target="_blank">
+<img src="https://img.youtube.com/channel/UCprof_haigoune/mqdefault.jpg" width="120" alt="prof_haigoune">
+<br/>
+<b>prof_haigoune</b>
+</a>
+
+<a href="https://www.youtube.com/@أم-سيلين-في-الأدب-العربي" target="_blank">
+<img src="https://img.youtube.com/channel/UCأمسيلين/mqdefault.jpg" width="120" alt="أم سيلين">
+<br/>
+<b>أم سيلين في الأدب العربي</b>
+</a>
+
+---
 
 ### 🇬🇧 الإنجليزية
-| القناة | الرابط |
-|--------|--------|
-| Nasri English | [مشاهدة](https://www.youtube.com/@Nasri.English) |
-| mr.mansouri | [مشاهدة](https://www.youtube.com/@mr.mansouri-english.français/featured) |
+
+<a href="https://www.youtube.com/@Nasri.English" target="_blank">
+<img src="https://img.youtube.com/channel/UCNasriEnglish/mqdefault.jpg" width="120" alt="Nasri English">
+<br/>
+<b>Nasri English</b>
+</a>
+
+---
 
 ### 🇫🇷 الفرنسية
-| القناة | الرابط |
-|--------|--------|
-| sally.francais | [مشاهدة](https://www.youtube.com/@sally.francais6738) |
-| mr.mansouri | [مشاهدة](https://www.youtube.com/@mr.mansouri-english.français/featured) |
+
+<a href="https://www.youtube.com/@sally.francais6738" target="_blank">
+<img src="https://img.youtube.com/channel/UCsallyfrancais/mqdefault.jpg" width="120" alt="sally.francais">
+<br/>
+<b>sally.francais</b>
+</a>
+
+---
 
 ### 🗺️ التاريخ والجغرافيا
-| القناة | الرابط |
-|--------|--------|
-| الأستاذ بورنان | [مشاهدة](https://www.youtube.com/@الأستاذبورنان/featured) |
-| djaafar_prof | [مشاهدة](https://www.youtube.com/@djaafar_prof) |
+
+<a href="https://www.youtube.com/@الأستاذبورنان/featured" target="_blank">
+<img src="https://img.youtube.com/channel/UCالأستاذبورنان/mqdefault.jpg" width="120" alt="الأستاذ بورنان">
+<br/>
+<b>الأستاذ بورنان</b>
+</a>
+
+<a href="https://www.youtube.com/@djaafar_prof" target="_blank">
+<img src="https://img.youtube.com/channel/UCdjaafar_prof/mqdefault.jpg" width="120" alt="djaafar_prof">
+<br/>
+<b>djaafar_prof</b>
+</a>
+
+---
 
 ### ☪️ العلوم الإسلامية
-| القناة | الرابط |
-|--------|--------|
-| BOUSSAADI | [مشاهدة](https://www.youtube.com/@BOUSSAADI) |
-| dr_chms | [مشاهدة](https://www.youtube.com/@dr_chms2540) |
+
+<a href="https://www.youtube.com/@BOUSSAADI" target="_blank">
+<img src="https://img.youtube.com/channel/UCBOUSSAADI/mqdefault.jpg" width="120" alt="BOUSSAADI">
+<br/>
+<b>BOUSSAADI</b>
+</a>
+
+<a href="https://www.youtube.com/@dr_chms2540" target="_blank">
+<img src="https://img.youtube.com/channel/UCdr_chms/mqdefault.jpg" width="120" alt="dr_chms">
+<br/>
+<b>dr_chms</b>
+</a>
 
 ---
 
